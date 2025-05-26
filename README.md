@@ -10,7 +10,7 @@
 # --------------- 广告 ---------------
 
 # 图标点选yolo
-
+# 配套的视频讲解地址：https://www.bilibili.com/video/BV1MijDzUEAG/?vd_source=4e60c6c3075c23c4aef0f545b39459b8
 ## 1.分析
 
 <img src="assets/image-20250525063808016.png" alt="image-20250525063808016" style="zoom:200%;" />
